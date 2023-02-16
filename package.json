@@ -1,0 +1,17 @@
+{
+  "name": "jsonmock7",
+  "version": "1.0.0",
+  "description": "Json Mock",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "keywords": [],
+  "author": "alok",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.1",
+    "server": "^1.0.38"
+  }
+}
